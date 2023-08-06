@@ -1,3 +1,7 @@
+# No longer maintained
+
+This simple template is no longer maintained - make sure to check for dependency security updates before using.
+
 # Camunda Platform Process Application
 A Process Application for [Camunda Platform](http://docs.camunda.org).
 
